@@ -1,5 +1,4 @@
 # hello-world
-mmd
 
 I'm grace.
 I love listening to music and hanging with friends.
