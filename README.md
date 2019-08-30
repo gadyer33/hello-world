@@ -1,10 +1,10 @@
 # Timeline for Webiste
 
-Aug. 27: color scheme
+sept 3: color scheme
 
-Aug. 29: cookies page and name
+sept 6: cookies page and name
 
-Sept. 4: Frequently asked questions
+sept 10: Frequently asked questions
 
 Sept. 13: Content figured out
 
