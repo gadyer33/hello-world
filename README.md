@@ -1,9 +1,13 @@
 # Timeline for Webiste
 
 sept: color scheme
-      cookies page and name
-      Frequently asked questions
-      Content figured out
+
+cookies page and name
+      
+Frequently asked questions
+      
+Content figured out
+
 
 Header and footer
 
