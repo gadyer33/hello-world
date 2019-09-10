@@ -1,12 +1,9 @@
 # Timeline for Webiste
 
-sept 3: color scheme
-
-sept 6: cookies page and name
-
-sept 10: Frequently asked questions
-
-Sept. 13: Content figured out
+sept: color scheme
+      cookies page and name
+      Frequently asked questions
+      Content figured out
 
 Header and footer
 
